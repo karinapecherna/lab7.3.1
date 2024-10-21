@@ -1,0 +1,67 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Users\karin\source\repos\lab7.3.01\lab7.3.01\FileName.cpp(12,21): warning C4566: character represented by universal-character-name '\u041D' cannot be represented in the current code page (1252)
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\karin\source\repos\lab7.3.01\lab7.3.01\FileName.cpp(12,21): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1252)
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\karin\source\repos\lab7.3.01\lab7.3.01\FileName.cpp(12,21): warning C4566: character represented by universal-character-name '\u043C' cannot be represented in the current code page (1252)
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\karin\source\repos\lab7.3.01\lab7.3.01\FileName.cpp(12,21): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\karin\source\repos\lab7.3.01\lab7.3.01\FileName.cpp(12,21): warning C4566: character represented by universal-character-name '\u0436' cannot be represented in the current code page (1252)
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\karin\source\repos\lab7.3.01\lab7.3.01\FileName.cpp(12,21): warning C4566: character represented by universal-character-name '\u043B' cannot be represented in the current code page (1252)
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\karin\source\repos\lab7.3.01\lab7.3.01\FileName.cpp(12,21): warning C4566: character represented by universal-character-name '\u0438' cannot be represented in the current code page (1252)
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\karin\source\repos\lab7.3.01\lab7.3.01\FileName.cpp(12,21): warning C4566: character represented by universal-character-name '\u0432' cannot be represented in the current code page (1252)
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\karin\source\repos\lab7.3.01\lab7.3.01\FileName.cpp(12,21): warning C4566: character represented by universal-character-name '\u043A' cannot be represented in the current code page (1252)
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\karin\source\repos\lab7.3.01\lab7.3.01\FileName.cpp(12,21): warning C4566: character represented by universal-character-name '\u043D' cannot be represented in the current code page (1252)
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\karin\source\repos\lab7.3.01\lab7.3.01\FileName.cpp(12,21): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\karin\source\repos\lab7.3.01\lab7.3.01\FileName.cpp(12,21): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1252)
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\karin\source\repos\lab7.3.01\lab7.3.01\FileName.cpp(12,21): warning C4566: character represented by universal-character-name '\u043F' cannot be represented in the current code page (1252)
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\karin\source\repos\lab7.3.01\lab7.3.01\FileName.cpp(12,21): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\karin\source\repos\lab7.3.01\lab7.3.01\FileName.cpp(12,21): warning C4566: character represented by universal-character-name '\u044F' cannot be represented in the current code page (1252)
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\karin\source\repos\lab7.3.01\lab7.3.01\FileName.cpp(12,21): warning C4566: character represented by universal-character-name '\u0434' cannot be represented in the current code page (1252)
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\karin\source\repos\lab7.3.01\lab7.3.01\FileName.cpp(12,21): warning C4566: character represented by universal-character-name '\u0456' cannot be represented in the current code page (1252)
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\karin\source\repos\lab7.3.01\lab7.3.01\FileName.cpp(12,21): warning C4566: character represented by universal-character-name '\u0443' cannot be represented in the current code page (1252)
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\karin\source\repos\lab7.3.01\lab7.3.01\FileName.cpp(12,21): warning C4566: character represented by universal-character-name '\u044C' cannot be represented in the current code page (1252)
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\karin\source\repos\lab7.3.01\lab7.3.01\FileName.cpp(19,35): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\karin\source\repos\lab7.3.01\lab7.3.01\FileName.cpp(61,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file '/UnitTest1.cpp')
+  
+     Creating library C:\Users\karin\source\repos\lab7.3.01\x64\Debug\UnitTest1.lib and object C:\Users\karin\source\repos\lab7.3.01\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\karin\source\repos\lab7.3.01\x64\Debug\UnitTest1.dll
